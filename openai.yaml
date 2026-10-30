@@ -1,0 +1,4 @@
+interface:
+  display_name: "实验室多仪器连接与采集"
+  short_description: "统一连接示波器、电源、万用表、信号发生器与调试器，保存状态和原始数据"
+  default_prompt: "使用 $lab-instruments 识别当前仪器，核对接线和设备状态，执行我指定的采集并保存原始数据。"
