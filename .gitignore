@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+*.local.json
+logs/
+captures/
+dist/
+.env
+*.key
+*.pem
